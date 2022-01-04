@@ -1,3 +1,8 @@
+# Relics
+Small JS incremental / resource management game. Ends fairly quickly, but building out mechanics was enjoyable. 
+Accessible at https://bearhanded.github.io/relics/
+
+# Running locally (boilerplate CRA)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
